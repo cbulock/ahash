@@ -8,4 +8,4 @@ This is based on the algorithm presented here: http://www.hackerfactor.com/blog/
 To use:
 
     $ahash = new Cbulock\Ahash\Ahash('image.jpg');
-		echo $ahash->compute();
+    echo $ahash->compute();
