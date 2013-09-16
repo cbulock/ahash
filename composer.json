@@ -1,0 +1,24 @@
+{
+	"name" : "cbulock/ahash",
+  "version" : "0.0.1",
+	"description" : "Compute Average Hash (perceptual hash) for image likeness comparison",
+	"homepage" : "http://cbulock.github.com/ahash",
+	"license" : "GPLv2",
+	"authors" : [
+		{
+			"name" : "Cameron Bulock",
+			"email" : "cameron@bulock.com",
+			"homepage" : "http://cameron.bulock.com",
+			"role" : "Developer"
+		}
+	],
+	"require": {
+		"php":		">=5.3",
+		"ext-gd":	"*"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Cbulock\\Ahash" : "lib"
+		}
+	}
+}
