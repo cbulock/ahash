@@ -3,7 +3,7 @@
   "version" : "0.0.1",
 	"description" : "Compute Average Hash (perceptual hash) for image likeness comparison",
 	"homepage" : "http://cbulock.github.com/ahash",
-	"license" : "GPLv2",
+	"license" : "GPL-2.0-only",
 	"authors" : [
 		{
 			"name" : "Cameron Bulock",
